@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN STACK , FLUTTER**
 
-- 🌱 I’m currently learning **PYTHON , REACT , C# , FLUTTER**
+- 🌱 I’m currently learning **PYTHON , REACT , NODE.JS , C# , FLUTTER**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Souvik Choudhury](https://www.linkedin.com/in/souvik-choudhury-07275a1b1/)**
 
@@ -23,7 +23,6 @@
 
 **Languages and technologies I have used or worked with** 
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -33,6 +32,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 
