@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Souvik </h1>
+<hr>
+<a href="https://youtu.be/dQw4w9WgXcQ">
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" height="250" />
+</a>
 
-<!--
-**SouvikChoudhury360/SouvikChoudhury360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **MERN STACK , FLUTTER**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **PYTHON , REACT , C# , FLUTTER**
+
+- 👯 I’m looking to collaborate on **[LinkedIn- Souvik Choudhury](https://www.linkedin.com/in/souvik-choudhury-07275a1b1/)**
+
+- 🤝 I’m looking for help with **Open Source Contributions**
+
+- 📫 How to reach me **choudhurysouvik2003@gmail.com**
+
+- 👨‍💻 I solve dsa problems in **C++**
+
+
+
+<hr>
+
+**Languages and technologies I have used or worked with** 
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SouvikChoudhury360&theme=dark&show_icons=true" height="195" width="495" alt="Souvik_Choudhury_360" /></p>
