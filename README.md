@@ -21,7 +21,9 @@
 
 <hr>
 
-**Languages and technologies I have used or worked with** 
+**Languages and technologies I have used or worked with:** 
+<br>
+<br>
 <p align="center">
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,5 +44,6 @@
 </p>
 
 
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SouvikChoudhury360&theme=dark&show_icons=true" height="195" width="495" alt="Souvik_Choudhury_360" /></p>
