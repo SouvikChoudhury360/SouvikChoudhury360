@@ -46,4 +46,4 @@
 
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SouvikChoudhury360&theme=dark&show_icons=true" height="195" width="495" alt="Souvik_Choudhury_360" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SouvikChoudhury360&theme=dark&show_icons=true" height="195" width="495" alt="Souvik_Choudhury_360" /></p>
