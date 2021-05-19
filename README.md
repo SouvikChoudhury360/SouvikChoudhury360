@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **choudhurysouvik2003@gmail.com**
 
-- 👨‍💻 I solve dsa problems in **C++**
+- 👨‍💻 I solve dsa problems in **C++** , Also Interested in competitive programming
 
 
 
