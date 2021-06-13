@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=SouvikChoudhury360)
+<br>
+
 <h1 align="center">Hi there 👋, I'm Souvik </h1>
 <hr>
 <h3 align="center">Undergrad at Jadavpur University (First year) </h3>
