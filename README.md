@@ -8,7 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently working on **MERN STACK , FLUTTER , BLOCKCHAIN**
+- 🔭 I’m currently working on **MERN , FLUTTER , BLOCKCHAIN**
 
 - 🌱 I’m currently learning **Solidity , React.js**
 
