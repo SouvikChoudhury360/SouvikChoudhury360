@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **choudhurysouvik2003@gmail.com**
 
+- ↗ Visit my portfolio at **[Souvik Choudhury Portfolio](https://souvikchoudhury.xyz/)**
+
 - 👨‍💻 I solve dsa problems in **C++** , Also Interested in competitive programming
 
 
