@@ -3,14 +3,14 @@
 
 <h1 align="center">Hi there 👋, I'm Souvik </h1>
 <hr>
-<h3 align="center">Undergrad at Jadavpur University (Second year) </h3>
+<h3 align="center">Undergrad at Jadavpur University (Final year) </h3>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" height="250" />
 </a>
 
 
-- 🔭 I’m currently working on **MERN , FLUTTER , BLOCKCHAIN**
+- 🔭 I’m currently working on **FLUTTER, BLOCKCHAIN, FLASK(Python)**
 
-- 🌱 I’m currently learning **Solidity , Flutter**
+- 🌱 I’m currently learning **Solidity, Flutter, Python**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Souvik Choudhury](https://www.linkedin.com/in/souvik-choudhury-07275a1b1/)**
 
@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **choudhurysouvik2003@gmail.com**
 
-- ↗ Visit my portfolio at **[Souvik Choudhury Portfolio](https://souvikchoudhury.xyz/)**
-
-- 👨‍💻 I solve dsa problems in **C++** , Also Interested in competitive programming
+- 👨‍💻 I solve DSA problems in **C++** , Also Interested in competitive programming
 
 
 
