@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **choudhurysouvik2003@gmail.com**
 
-- 👨‍💻 I solve DSA problems in **C++** 
+- 👨‍💻 I solve DSA problems in **C++** , Knight @ Leetcode
 
 
 
